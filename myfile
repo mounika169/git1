@@ -1,0 +1,6 @@
+node {
+    stage('code')
+    {
+git 'https://github.com/mounika169/git1.git'
+    }
+}
